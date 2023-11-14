@@ -1,3 +1,4 @@
 lxml
 Beautifulsoup4
 requests
+tqdm
