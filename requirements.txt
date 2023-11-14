@@ -1,0 +1,3 @@
+lxml
+Beautifulsoup4
+requests
